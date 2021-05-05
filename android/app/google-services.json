@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "149376864670",
+    "project_id": "flash-chat-b700f",
+    "storage_bucket": "flash-chat-b700f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149376864670:android:4f92df74c831c4aa65468f",
+        "android_client_info": {
+          "package_name": "co.manan_brewery.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149376864670-sokjcip1ortf9kcp6h3esul5lmcsvs5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZxOATKPWm4QLSCJ8MSdv8F2_LB7eIVec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149376864670-sokjcip1ortf9kcp6h3esul5lmcsvs5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
